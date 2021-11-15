@@ -1,0 +1,1 @@
+This firmware for the shifter which current version is 2.x
